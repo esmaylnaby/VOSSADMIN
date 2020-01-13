@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/VOSSADMIN/static/css/main.95b3e173.chunk.css",
+    "main.js": "/VOSSADMIN/static/js/main.0ff60950.chunk.js",
+    "main.js.map": "/VOSSADMIN/static/js/main.0ff60950.chunk.js.map",
+    "runtime-main.js": "/VOSSADMIN/static/js/runtime-main.205b05ca.js",
+    "runtime-main.js.map": "/VOSSADMIN/static/js/runtime-main.205b05ca.js.map",
+    "static/js/2.ca468b90.chunk.js": "/VOSSADMIN/static/js/2.ca468b90.chunk.js",
+    "static/js/2.ca468b90.chunk.js.map": "/VOSSADMIN/static/js/2.ca468b90.chunk.js.map",
+    "index.html": "/VOSSADMIN/index.html",
+    "precache-manifest.04180613360a174506376dabe371da3b.js": "/VOSSADMIN/precache-manifest.04180613360a174506376dabe371da3b.js",
+    "service-worker.js": "/VOSSADMIN/service-worker.js",
+    "static/css/main.95b3e173.chunk.css.map": "/VOSSADMIN/static/css/main.95b3e173.chunk.css.map",
+    "static/js/2.ca468b90.chunk.js.LICENSE": "/VOSSADMIN/static/js/2.ca468b90.chunk.js.LICENSE",
+    "static/media/logo.png": "/VOSSADMIN/static/media/logo.12f98d8b.png",
+    "static/media/logo.svg": "/VOSSADMIN/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.205b05ca.js",
+    "static/js/2.ca468b90.chunk.js",
+    "static/css/main.95b3e173.chunk.css",
+    "static/js/main.0ff60950.chunk.js"
+  ]
+}
